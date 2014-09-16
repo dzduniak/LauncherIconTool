@@ -43,4 +43,4 @@ mkdir res\drawable-mdpi
 
 It will create icons with all required sizes. 
 
-This methods avoids creation of artifacts due to filtering when scaling large size raster images.
+This method avoids creation of artifacts due to filtering when scaling large raster images.

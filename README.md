@@ -13,7 +13,7 @@ and drag and drop image file onto its icon.
 SVG files
 ----------------
 
-If you are creating your icon using vector editing software, there is better way. 
+If you are creating your icon using vector editing software, there is better way: 
 
 1. First export your image to **SVG** format.
 2. Install [Inkspace](http://www.inkscape.org/en/).

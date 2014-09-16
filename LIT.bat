@@ -1,3 +1,4 @@
+REM Set following path to your Inkscape location:
 set INKSCAPE="C:\Program Files (x86)\Inkscape\Inkscape.exe"
 
 %INKSCAPE% -e web_hi_res_512.png -w 512 -h 512 %1

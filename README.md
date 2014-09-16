@@ -41,4 +41,6 @@ mkdir res\drawable-mdpi
 %INKSCAPE% -e res\drawable-mdpi\ic_launcher.png -w 48 -h 48 %1
 ```
 
-It will create icons with all required sizes. This methods avoids creation of artifacts due to filtering when scaling large size raster images.
+It will create icons with all required sizes. 
+
+This methods avoids creation of artifacts due to filtering when scaling large size raster images.

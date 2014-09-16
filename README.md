@@ -16,7 +16,7 @@ SVG files
 If you are creating your icon using vector editing software, there is a better way: 
 
 1. First export your image to **SVG** format.
-2. Install [Inkspace](http://www.inkscape.org/en/).
+2. Install [Inkscape](http://www.inkscape.org/en/).
 3. Then use following script (you can download it [here](https://raw.githubusercontent.com/mrpyo/LauncherIconTool/master/LIT.bat), save it on desktop and drag and drop your **svg** file on it):
 
 ```

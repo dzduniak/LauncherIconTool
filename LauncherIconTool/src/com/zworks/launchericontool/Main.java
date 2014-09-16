@@ -5,12 +5,17 @@ import java.awt.image.AffineTransformOp;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.LinkedList;
 
 import javax.imageio.ImageIO;
 
 public class Main {
 
 	public static void main(String[] args) {
+		System.out.println(Boolean.toString(Collections.emptyList().equals(new LinkedList<Object>())));
+		
 		if (args.length < 1) {
 			System.out.println("Specify image file name as an argument.");
 			return;

@@ -1,7 +1,7 @@
 Launcher Icon Tool
 ================
 
-Automatically resize image to approperiate versions of launcher icon drawables.
+Automatically resize image to approperiate versions of Android launcher icon drawables.
 
 How to use
 ----------------

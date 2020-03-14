@@ -1,4 +1,4 @@
-Launcher Icon Tool
+launcher-icon-tool
 ================
 
 Automatically resize image to approperiate versions of Android launcher icon drawables.
